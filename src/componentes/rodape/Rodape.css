@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.rodape {
+    background: #6278F7;
+    padding: 4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url('/public/imagens/fundo.png');
+}
+
+.rodape__logo {
+    width: 10.2rem;
+}
+
+.rodape__redes {
+    width: 2rem;
+    margin-right: 3rem;
+}
+
+.rodape__texto {
+    font-weight: 400;
+    font-size: 1.25rem;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+}
